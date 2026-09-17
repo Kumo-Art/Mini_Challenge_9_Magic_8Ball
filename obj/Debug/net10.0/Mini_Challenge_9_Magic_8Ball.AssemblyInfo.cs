@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini_Challenge_9_Magic_8Ball")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31b8574461f3f71f03e7f7f116c971ae9bb55ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dafb29a389f2c875495567460cf8f9116bc84473")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini_Challenge_9_Magic_8Ball")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini_Challenge_9_Magic_8Ball")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
