@@ -13,3 +13,18 @@ C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Bal
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\ref\Mini_Challenge_9_Magic_8Ball.dll
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.sourcelink.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\bin\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.exe
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\bin\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.deps.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\bin\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.runtimeconfig.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\bin\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\bin\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.pdb
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.AssemblyInfoInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.AssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.csproj.CoreCompileInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.sourcelink.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\refint\Mini_Challenge_9_Magic_8Ball.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.pdb
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.genruntimeconfig.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\ref\Mini_Challenge_9_Magic_8Ball.dll
