@@ -12,3 +12,4 @@ C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Bal
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.pdb
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\ref\Mini_Challenge_9_Magic_8Ball.dll
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Mini_Challenge_9_Magic_8Ball\obj\Debug\net10.0\Mini_Challenge_9_Magic_8Ball.sourcelink.json
