@@ -47,16 +47,7 @@ Console.WriteLine(rndAnswer);
 Console.WriteLine("Would you like to play again?");
 
 
-string playAgain = Console.ReadLine();
-
-while(playAgain == "yes")
-    {
-        Console.WriteLine("Great ask me another question?");
-    }
-if (playAgain == "no")
-    {
-        break;
-    }
+userInput1  = Console.ReadLine();
 
 
 
